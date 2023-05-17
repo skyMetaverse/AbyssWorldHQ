@@ -1,5 +1,5 @@
 # AbyssWorldHQ
-@AbyssWorldHQ 每天签到脚本  如果对你有所帮助请 Star
+@AbyssWorldHQ 每天签到脚本, 对你有帮助请 Star
 
 # 使用说明
 ```
